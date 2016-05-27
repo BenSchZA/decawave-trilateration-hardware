@@ -1,4 +1,9 @@
-.bak
-.gbr
-.zip
-.drl
+*.bak
+*.gbr
+*.zip
+*.drl
+*.bck
+*.kicad_pcb-bak
+*-cache.lib
+*.dsn
+*.ses
